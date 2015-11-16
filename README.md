@@ -1,1 +1,3 @@
 # interfaceSegregation
+
+interface Segregation principal
